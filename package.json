@@ -1,0 +1,14 @@
+{
+  "name": "trashmailer",
+  "version": "0.0.1",
+  "description": "A package that allows you to send emails through typescript",
+  "main": "index.js",
+  "author": "ryanwalker277",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.15"
+  }
+}
